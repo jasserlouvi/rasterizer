@@ -1,4 +1,4 @@
 # rasterizer
 my roblox project, code dump, it rasterizes the screen + built in lighting system.
 
-![image](https://github.com/user-attachments/assets/9eccdaa6-2b55-4a34-8e3b-06af6238a204)
+![rasterizer thumbnail](https://github.com/user-attachments/assets/fd5b3be7-44c0-44c0-a317-656d1adb037a)
